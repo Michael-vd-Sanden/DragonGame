@@ -6,6 +6,7 @@ TagManager:
   tags:
   - CinemachineTarget
   - Object
+  - DragonRideable
   layers:
   - Default
   - TransparentFX
